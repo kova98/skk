@@ -1,0 +1,29 @@
+# SKK (sustav za kupovinu karata)
+
+- kupovina karata
+  - potrebna autentikacija
+  - unos broja kartice
+  - prikaz imena i maila
+  - jedna karta unutar jedne transakcije
+  - povratna informacija o kupovini, ako nema vise karata odbij transakciju
+
+- ponuda karata
+  - nije potrebna autentikacija
+
+- izdavanje karata
+  - vrijeme polaska, vrijeme dolaska, broj karata (za taj termin)
+
+- pregled kupljenih karata
+  - potrebna autentikacija
+
+
+Trip 
+- Carrier Name
+- Departure date
+- Arrival date
+- Max Tickets
+- Issued Tickets
+
+Ticket
+- User Id
+- Trip Id
